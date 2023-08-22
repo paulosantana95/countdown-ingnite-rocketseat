@@ -19,9 +19,9 @@ export function NewCycleForm() {
       />
 
       <datalist id="task-suggestions">
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <option value="Projeto 1" />
+        <option value="Projeto 2" />
+        <option value="Projeto 3" />
         <option value="Banana" />
       </datalist>
 
